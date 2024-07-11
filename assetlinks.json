@@ -3,8 +3,8 @@
         "relation": ["delegate_permission/common.handle_all_urls"],
         "target": {
             "namespace": "android_app",
-            "package_name": "com.example.myapp",
-            "sha256_cert_fingerprints": []
+            "package_name": "com.cctt.stadium.stadium",
+            "sha256_cert_fingerprints": ["07:1A:B6:3F:0F:A1:4B:08:B2:B8:EE:89:A3:B7:AB:87:35:12:1E:20:37:0E:99:7E:A5:11:0C:E8:11:27:6A:32"]
         }
     }
 ]
